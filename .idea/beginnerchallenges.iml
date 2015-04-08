@@ -11,11 +11,14 @@
       <sourceFolder url="file://$MODULE_DIR$/lesson3/task1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lesson1/task2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lesson1/task3" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/lesson1/task4" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/lesson1/task5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson8/task4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson8/task5" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lesson5/task1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lesson3/task2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lesson7/task1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson8/task1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson8/task2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson8/task3" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
