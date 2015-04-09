@@ -1,8 +1,11 @@
+# Make addition, subtraction, multiplication and division all equal 10 using the difference operators
 
-addition = 1 + 2
+addition = 1 + 9
 
-subtraction = 2 - 1
+subtraction = 11 - 1
 
-multiplication = 1 * 2
+multiplication = 1 * 10
 
-division = 2 / 1
+division = 20 / 2
+
+print(addition, subtraction, multiplication, division)
