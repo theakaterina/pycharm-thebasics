@@ -5,7 +5,7 @@ def test_answer_placeholders():
     placeholders = get_answer_placeholders()
     integers = placeholders[0]
     floats = placeholders[1]
-    if '.' in integers:  # TODO: your condition here
+    if '.' in integers:
         failed()
     if '.' in floats:
         passed()
@@ -15,6 +15,5 @@ def test_answer_placeholders():
 
 if __name__ == '__main__':
     run_common_tests()
-    # test_answer_placeholders()       # TODO: uncomment test call
-
+    test_answer_placeholders()
 
