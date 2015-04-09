@@ -1,7 +1,7 @@
-#
+# Assign values to the 3 variables
 
-name = "Thea"
-age = "22"
-likes_cake = True
+name =
+age =
+likes_cake =
 
 print("My name is " + name + ". I am " + str(age) + " years old. It is " + str(likes_cake) + " that I like cake")
