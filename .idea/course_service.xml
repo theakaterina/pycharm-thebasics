@@ -1012,7 +1012,40 @@
                         <value>
                           <TaskFile>
                             <option name="task_windows">
-                              <list />
+                              <list>
+                                <TaskWindow>
+                                  <option name="index" value="1" />
+                                  <option name="length" value="8" />
+                                  <option name="line" value="2" />
+                                  <option name="replacementLength" value="5" />
+                                  <option name="start" value="6" />
+                                  <option name="taskText" value="integers" />
+                                  <option name="line" value="2" />
+                                  <option name="start" value="6" />
+                                  <option name="hint" />
+                                  <option name="possible_answer" value="5 / 2" />
+                                  <option name="length" value="8" />
+                                  <option name="myTaskText" value="integers" />
+                                  <option name="myReplacementLength" value="5" />
+                                  <option name="myIndex" value="1" />
+                                </TaskWindow>
+                                <TaskWindow>
+                                  <option name="index" value="2" />
+                                  <option name="length" value="6" />
+                                  <option name="line" value="5" />
+                                  <option name="replacementLength" value="9" />
+                                  <option name="start" value="6" />
+                                  <option name="taskText" value="floats" />
+                                  <option name="line" value="5" />
+                                  <option name="start" value="6" />
+                                  <option name="hint" />
+                                  <option name="possible_answer" value="5.0 / 2.0" />
+                                  <option name="length" value="6" />
+                                  <option name="myTaskText" value="floats" />
+                                  <option name="myReplacementLength" value="9" />
+                                  <option name="myIndex" value="2" />
+                                </TaskWindow>
+                              </list>
                             </option>
                             <option name="myIndex" value="2" />
                           </TaskFile>
@@ -1164,7 +1197,40 @@
                             <value>
                               <TaskFile>
                                 <option name="task_windows">
-                                  <list />
+                                  <list>
+                                    <TaskWindow>
+                                      <option name="index" value="1" />
+                                      <option name="length" value="8" />
+                                      <option name="line" value="2" />
+                                      <option name="replacementLength" value="5" />
+                                      <option name="start" value="6" />
+                                      <option name="taskText" value="integers" />
+                                      <option name="line" value="2" />
+                                      <option name="start" value="6" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="5 / 2" />
+                                      <option name="length" value="8" />
+                                      <option name="myTaskText" value="integers" />
+                                      <option name="myReplacementLength" value="5" />
+                                      <option name="myIndex" value="1" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="2" />
+                                      <option name="length" value="6" />
+                                      <option name="line" value="5" />
+                                      <option name="replacementLength" value="9" />
+                                      <option name="start" value="6" />
+                                      <option name="taskText" value="floats" />
+                                      <option name="line" value="5" />
+                                      <option name="start" value="6" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="5.0 / 2.0" />
+                                      <option name="length" value="6" />
+                                      <option name="myTaskText" value="floats" />
+                                      <option name="myReplacementLength" value="9" />
+                                      <option name="myIndex" value="2" />
+                                    </TaskWindow>
+                                  </list>
                                 </option>
                                 <option name="myIndex" value="2" />
                               </TaskFile>
@@ -2267,7 +2333,40 @@
                             <value>
                               <TaskFile>
                                 <option name="task_windows">
-                                  <list />
+                                  <list>
+                                    <TaskWindow>
+                                      <option name="index" value="1" />
+                                      <option name="length" value="8" />
+                                      <option name="line" value="2" />
+                                      <option name="replacementLength" value="5" />
+                                      <option name="start" value="6" />
+                                      <option name="taskText" value="integers" />
+                                      <option name="line" value="2" />
+                                      <option name="start" value="6" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="5 / 2" />
+                                      <option name="length" value="8" />
+                                      <option name="myTaskText" value="integers" />
+                                      <option name="myReplacementLength" value="5" />
+                                      <option name="myIndex" value="1" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="2" />
+                                      <option name="length" value="6" />
+                                      <option name="line" value="5" />
+                                      <option name="replacementLength" value="9" />
+                                      <option name="start" value="6" />
+                                      <option name="taskText" value="floats" />
+                                      <option name="line" value="5" />
+                                      <option name="start" value="6" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="5.0 / 2.0" />
+                                      <option name="length" value="6" />
+                                      <option name="myTaskText" value="floats" />
+                                      <option name="myReplacementLength" value="9" />
+                                      <option name="myIndex" value="2" />
+                                    </TaskWindow>
+                                  </list>
                                 </option>
                                 <option name="myIndex" value="2" />
                               </TaskFile>
@@ -2419,7 +2518,40 @@
                                 <value>
                                   <TaskFile>
                                     <option name="task_windows">
-                                      <list />
+                                      <list>
+                                        <TaskWindow>
+                                          <option name="index" value="1" />
+                                          <option name="length" value="8" />
+                                          <option name="line" value="2" />
+                                          <option name="replacementLength" value="5" />
+                                          <option name="start" value="6" />
+                                          <option name="taskText" value="integers" />
+                                          <option name="line" value="2" />
+                                          <option name="start" value="6" />
+                                          <option name="hint" />
+                                          <option name="possible_answer" value="5 / 2" />
+                                          <option name="length" value="8" />
+                                          <option name="myTaskText" value="integers" />
+                                          <option name="myReplacementLength" value="5" />
+                                          <option name="myIndex" value="1" />
+                                        </TaskWindow>
+                                        <TaskWindow>
+                                          <option name="index" value="2" />
+                                          <option name="length" value="6" />
+                                          <option name="line" value="5" />
+                                          <option name="replacementLength" value="9" />
+                                          <option name="start" value="6" />
+                                          <option name="taskText" value="floats" />
+                                          <option name="line" value="5" />
+                                          <option name="start" value="6" />
+                                          <option name="hint" />
+                                          <option name="possible_answer" value="5.0 / 2.0" />
+                                          <option name="length" value="6" />
+                                          <option name="myTaskText" value="floats" />
+                                          <option name="myReplacementLength" value="9" />
+                                          <option name="myIndex" value="2" />
+                                        </TaskWindow>
+                                      </list>
                                     </option>
                                     <option name="myIndex" value="2" />
                                   </TaskFile>
