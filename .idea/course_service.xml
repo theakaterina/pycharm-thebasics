@@ -801,11 +801,44 @@
                   <option name="name" value="Libraries" />
                   <option name="task_files">
                     <map>
-                      <entry key="file1.py">
+                      <entry key="libraries.py">
                         <value>
                           <TaskFile>
                             <option name="task_windows">
-                              <list />
+                              <list>
+                                <TaskWindow>
+                                  <option name="index" value="1" />
+                                  <option name="length" value="0" />
+                                  <option name="line" value="3" />
+                                  <option name="replacementLength" value="1" />
+                                  <option name="start" value="4" />
+                                  <option name="taskText" value="" />
+                                  <option name="line" value="3" />
+                                  <option name="start" value="4" />
+                                  <option name="hint" />
+                                  <option name="possible_answer" value="5" />
+                                  <option name="length" value="0" />
+                                  <option name="myTaskText" value="" />
+                                  <option name="myReplacementLength" value="1" />
+                                  <option name="myIndex" value="1" />
+                                </TaskWindow>
+                                <TaskWindow>
+                                  <option name="index" value="2" />
+                                  <option name="length" value="0" />
+                                  <option name="line" value="6" />
+                                  <option name="replacementLength" value="14" />
+                                  <option name="start" value="7" />
+                                  <option name="taskText" value="" />
+                                  <option name="line" value="6" />
+                                  <option name="start" value="7" />
+                                  <option name="hint" value="lesson3task4file1_3" />
+                                  <option name="possible_answer" value="math.pi * r**2" />
+                                  <option name="length" value="0" />
+                                  <option name="myTaskText" value="" />
+                                  <option name="myReplacementLength" value="14" />
+                                  <option name="myIndex" value="2" />
+                                </TaskWindow>
+                              </list>
                             </option>
                             <option name="myIndex" value="4" />
                           </TaskFile>
@@ -1027,11 +1060,44 @@
                       <option name="name" value="Libraries" />
                       <option name="task_files">
                         <map>
-                          <entry key="file1.py">
+                          <entry key="libraries.py">
                             <value>
                               <TaskFile>
                                 <option name="task_windows">
-                                  <list />
+                                  <list>
+                                    <TaskWindow>
+                                      <option name="index" value="1" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="3" />
+                                      <option name="replacementLength" value="1" />
+                                      <option name="start" value="4" />
+                                      <option name="taskText" value="" />
+                                      <option name="line" value="3" />
+                                      <option name="start" value="4" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="5" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="" />
+                                      <option name="myReplacementLength" value="1" />
+                                      <option name="myIndex" value="1" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="2" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="6" />
+                                      <option name="replacementLength" value="14" />
+                                      <option name="start" value="7" />
+                                      <option name="taskText" value="" />
+                                      <option name="line" value="6" />
+                                      <option name="start" value="7" />
+                                      <option name="hint" value="lesson3task4file1_3" />
+                                      <option name="possible_answer" value="math.pi * r**2" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="" />
+                                      <option name="myReplacementLength" value="14" />
+                                      <option name="myIndex" value="2" />
+                                    </TaskWindow>
+                                  </list>
                                 </option>
                                 <option name="myIndex" value="4" />
                               </TaskFile>
@@ -1879,11 +1945,44 @@
                       <option name="name" value="Libraries" />
                       <option name="task_files">
                         <map>
-                          <entry key="file1.py">
+                          <entry key="libraries.py">
                             <value>
                               <TaskFile>
                                 <option name="task_windows">
-                                  <list />
+                                  <list>
+                                    <TaskWindow>
+                                      <option name="index" value="1" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="3" />
+                                      <option name="replacementLength" value="1" />
+                                      <option name="start" value="4" />
+                                      <option name="taskText" value="" />
+                                      <option name="line" value="3" />
+                                      <option name="start" value="4" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="5" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="" />
+                                      <option name="myReplacementLength" value="1" />
+                                      <option name="myIndex" value="1" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="2" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="6" />
+                                      <option name="replacementLength" value="14" />
+                                      <option name="start" value="7" />
+                                      <option name="taskText" value="" />
+                                      <option name="line" value="6" />
+                                      <option name="start" value="7" />
+                                      <option name="hint" value="lesson3task4file1_3" />
+                                      <option name="possible_answer" value="math.pi * r**2" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="" />
+                                      <option name="myReplacementLength" value="14" />
+                                      <option name="myIndex" value="2" />
+                                    </TaskWindow>
+                                  </list>
                                 </option>
                                 <option name="myIndex" value="4" />
                               </TaskFile>
@@ -2105,11 +2204,44 @@
                           <option name="name" value="Libraries" />
                           <option name="task_files">
                             <map>
-                              <entry key="file1.py">
+                              <entry key="libraries.py">
                                 <value>
                                   <TaskFile>
                                     <option name="task_windows">
-                                      <list />
+                                      <list>
+                                        <TaskWindow>
+                                          <option name="index" value="1" />
+                                          <option name="length" value="0" />
+                                          <option name="line" value="3" />
+                                          <option name="replacementLength" value="1" />
+                                          <option name="start" value="4" />
+                                          <option name="taskText" value="" />
+                                          <option name="line" value="3" />
+                                          <option name="start" value="4" />
+                                          <option name="hint" />
+                                          <option name="possible_answer" value="5" />
+                                          <option name="length" value="0" />
+                                          <option name="myTaskText" value="" />
+                                          <option name="myReplacementLength" value="1" />
+                                          <option name="myIndex" value="1" />
+                                        </TaskWindow>
+                                        <TaskWindow>
+                                          <option name="index" value="2" />
+                                          <option name="length" value="0" />
+                                          <option name="line" value="6" />
+                                          <option name="replacementLength" value="14" />
+                                          <option name="start" value="7" />
+                                          <option name="taskText" value="" />
+                                          <option name="line" value="6" />
+                                          <option name="start" value="7" />
+                                          <option name="hint" value="lesson3task4file1_3" />
+                                          <option name="possible_answer" value="math.pi * r**2" />
+                                          <option name="length" value="0" />
+                                          <option name="myTaskText" value="" />
+                                          <option name="myReplacementLength" value="14" />
+                                          <option name="myIndex" value="2" />
+                                        </TaskWindow>
+                                      </list>
                                     </option>
                                     <option name="myIndex" value="4" />
                                   </TaskFile>
