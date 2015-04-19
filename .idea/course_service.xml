@@ -481,6 +481,25 @@
                   </option>
                   <option name="myIndex" value="1" />
                 </Task>
+                <Task>
+                  <option name="index" value="2" />
+                  <option name="name" value="Changing Types" />
+                  <option name="task_files">
+                    <map>
+                      <entry key="file1.py">
+                        <value>
+                          <TaskFile>
+                            <option name="task_windows">
+                              <list />
+                            </option>
+                            <option name="myIndex" value="2" />
+                          </TaskFile>
+                        </value>
+                      </entry>
+                    </map>
+                  </option>
+                  <option name="myIndex" value="2" />
+                </Task>
               </list>
             </option>
             <option name="myIndex" value="2" />
@@ -555,6 +574,29 @@
                         </map>
                       </option>
                       <option name="myIndex" value="1" />
+                    </Task>
+                  </value>
+                </entry>
+                <entry key="task2">
+                  <value>
+                    <Task>
+                      <option name="index" value="2" />
+                      <option name="name" value="Changing Types" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="file1.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list />
+                                </option>
+                                <option name="myIndex" value="2" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="2" />
                     </Task>
                   </value>
                 </entry>
@@ -1022,17 +1064,6 @@
               <list />
             </option>
             <option name="myIndex" value="5" />
-            <option name="myTasksMap">
-              <map />
-            </option>
-          </Lesson>
-          <Lesson>
-            <option name="index" value="6" />
-            <option name="name" value="Control Flow" />
-            <option name="task_list">
-              <list />
-            </option>
-            <option name="myIndex" value="6" />
             <option name="myTasksMap">
               <map />
             </option>
@@ -1524,6 +1555,25 @@
                       </option>
                       <option name="myIndex" value="1" />
                     </Task>
+                    <Task>
+                      <option name="index" value="2" />
+                      <option name="name" value="Changing Types" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="file1.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list />
+                                </option>
+                                <option name="myIndex" value="2" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="2" />
+                    </Task>
                   </list>
                 </option>
                 <option name="myIndex" value="2" />
@@ -1598,6 +1648,29 @@
                             </map>
                           </option>
                           <option name="myIndex" value="1" />
+                        </Task>
+                      </value>
+                    </entry>
+                    <entry key="task2">
+                      <value>
+                        <Task>
+                          <option name="index" value="2" />
+                          <option name="name" value="Changing Types" />
+                          <option name="task_files">
+                            <map>
+                              <entry key="file1.py">
+                                <value>
+                                  <TaskFile>
+                                    <option name="task_windows">
+                                      <list />
+                                    </option>
+                                    <option name="myIndex" value="2" />
+                                  </TaskFile>
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="myIndex" value="2" />
                         </Task>
                       </value>
                     </entry>
@@ -2077,21 +2150,6 @@
                   <list />
                 </option>
                 <option name="myIndex" value="5" />
-                <option name="myTasksMap">
-                  <map />
-                </option>
-              </Lesson>
-            </value>
-          </entry>
-          <entry key="lesson6">
-            <value>
-              <Lesson>
-                <option name="index" value="6" />
-                <option name="name" value="Control Flow" />
-                <option name="task_list">
-                  <list />
-                </option>
-                <option name="myIndex" value="6" />
                 <option name="myTasksMap">
                   <map />
                 </option>
