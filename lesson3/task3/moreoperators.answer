@@ -1,0 +1,6 @@
+
+exponentiation = 2 ** 3
+
+modulo = 100 % 92
+
+print(exponentiation, modulo)

@@ -1,0 +1,178 @@
+{
+  "lessons": [
+    {
+      "name": "Your First Program",
+      "task_list": [
+        {
+          "name": "Hello World",
+          "task_files": {
+            "helloworld.py": {
+              "task_windows": [
+                {
+                  "line": 2,
+                  "start": 6,
+                  "possible_answer": "\"Hello World!\"",
+                  "length": 21
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Comments",
+          "task_files": {
+            "comments.py": {
+              "task_windows": [
+                {
+                  "line": 3,
+                  "start": 0,
+                  "possible_answer": "# comment out these lines",
+                  "length": 23
+                },
+                {
+                  "line": 4,
+                  "start": 0,
+                  "possible_answer": "# or your code won\u0027t work :(",
+                  "length": 26
+                },
+                {
+                  "line": 6,
+                  "start": 0,
+                  "possible_answer": "print(\"and uncomment this one!\")",
+                  "length": 34
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Variables",
+      "task_list": [
+        {
+          "name": "Data Types",
+          "task_files": {
+            "variables.py": {
+              "task_windows": [
+                {
+                  "line": 2,
+                  "start": 7,
+                  "possible_answer": "\"Thea\"",
+                  "length": 15
+                },
+                {
+                  "line": 3,
+                  "start": 6,
+                  "possible_answer": "22",
+                  "length": 14
+                },
+                {
+                  "line": 4,
+                  "start": 13,
+                  "possible_answer": "True",
+                  "length": 17
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Maths",
+      "task_list": [
+        {
+          "name": "Basic Operators",
+          "task_files": {
+            "operators.py": {
+              "task_windows": [
+                {
+                  "line": 2,
+                  "start": 9,
+                  "possible_answer": "1 + 9",
+                  "length": 1
+                },
+                {
+                  "line": 4,
+                  "start": 12,
+                  "possible_answer": "11 - 1",
+                  "length": 1
+                },
+                {
+                  "line": 6,
+                  "start": 15,
+                  "possible_answer": "1 * 10",
+                  "length": 1
+                },
+                {
+                  "line": 8,
+                  "start": 9,
+                  "possible_answer": "20 / 2",
+                  "length": 1
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Dangers in Division",
+          "task_files": {
+            "division.py": {
+              "task_windows": [
+                {
+                  "line": 2,
+                  "start": 6,
+                  "possible_answer": "5 / 2",
+                  "length": 8
+                },
+                {
+                  "line": 5,
+                  "start": 6,
+                  "possible_answer": "5.0 / 2.0",
+                  "length": 6
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Further Maths",
+          "task_files": {
+            "moreoperators.py": {
+              "task_windows": [
+                {
+                  "line": 1,
+                  "start": 15,
+                  "possible_answer": "1 ** 2",
+                  "length": 1
+                },
+                {
+                  "line": 3,
+                  "start": 6,
+                  "possible_answer": "5 % 2",
+                  "length": 2
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Libraries",
+          "task_files": {
+            "file1.py": {
+              "task_windows": []
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Strings",
+      "task_list": []
+    }
+  ],
+  "description": "Learn the basics of python 2.7",
+  "name": "Python Basics",
+  "author": "thea"
+}
