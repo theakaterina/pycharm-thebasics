@@ -6,7 +6,7 @@ def test_answer_placeholders():
     exponentiation = placeholders[0]
     modulo = placeholders[1]
     answers = get_file_output()
-    if answers == ['(8, 8)']:
+    if answers == ['8 8']:
         passed()
     else:
         failed("One of your answers isn't equal to 10!")

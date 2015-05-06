@@ -8,7 +8,7 @@ def test_answer_placeholders():
     multiplication = placeholders[2]
     division = placeholders[3]
     answers = get_file_output()
-    if answers == ['(10, 10, 10, 10)']:
+    if answers == ['10 10 10 10']:
         passed()
     else:
         failed("One of your answers isn't equal to 10!")

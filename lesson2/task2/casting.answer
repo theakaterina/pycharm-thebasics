@@ -1,6 +1,0 @@
-# Print the string + integer
-
-string = "Everyone knows the answer to the life, universe and everything. It's "
-integer = 42
-
-print(string + str(integer))

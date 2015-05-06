@@ -6,4 +6,4 @@ r = 5
 # Area of the circle
 area = math.pi * r**2
 
-print(area)
+print area

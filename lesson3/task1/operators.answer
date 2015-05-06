@@ -8,4 +8,4 @@ multiplication = 1 * 10
 
 division = 20 / 2
 
-print(addition, subtraction, multiplication, division)
+print addition, subtraction, multiplication, division
