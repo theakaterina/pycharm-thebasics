@@ -182,6 +182,14 @@ def get_answer_placeholders():
     return windows
 
 
+def check_answer(answer, error_text):
+    attempt = get_file_output()
+    if attempt == answer:
+        passed()
+    else:
+        failed(error_text)
+
+
 def run_common_tests(error_text="Please, reload file and try again"):
     test_is_initial_text()
     test_is_not_empty()

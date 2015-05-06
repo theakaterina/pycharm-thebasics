@@ -1,1 +1,16 @@
-# TODO: type solution here
+colours = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
+
+# What will colours[2] return?
+answer1 = "yellow"
+
+# What will colours[-2] return?
+answer2 = "indigo"
+
+# What will len(colours) return?
+answer3 = 7
+
+# What will colours[0:3] return?
+answer4 = ["red", "orange", "yellow"]
+
+# How would I return every third colour, starting at red?
+answer5 = colours[::3]

@@ -1,1 +1,7 @@
-# TODO: type solution here
+# L is a list of the numbers 1 - 10
+L = range(11)
+
+# Define doubles here
+doubles = [x * 2 for x in L]
+
+print doubles

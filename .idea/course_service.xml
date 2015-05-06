@@ -24,7 +24,7 @@
                               <list>
                                 <TaskWindow>
                                   <option name="index" value="1" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="17" />
                                   <option name="line" value="2" />
                                   <option name="replacementLength" value="14" />
                                   <option name="start" value="6" />
@@ -33,7 +33,7 @@
                                   <option name="start" value="6" />
                                   <option name="hint" value="lesson1task1helloworld_1" />
                                   <option name="possible_answer" value="&quot;Hello World!&quot;" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="17" />
                                   <option name="myTaskText" value="write answer here" />
                                   <option name="myReplacementLength" value="14" />
                                   <option name="myIndex" value="1" />
@@ -60,7 +60,7 @@
                               <list>
                                 <TaskWindow>
                                   <option name="index" value="1" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="23" />
                                   <option name="line" value="3" />
                                   <option name="replacementLength" value="25" />
                                   <option name="start" value="0" />
@@ -69,14 +69,14 @@
                                   <option name="start" value="0" />
                                   <option name="hint" />
                                   <option name="possible_answer" value="# comment out these lines" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="23" />
                                   <option name="myTaskText" value="comment out these lines" />
                                   <option name="myReplacementLength" value="25" />
                                   <option name="myIndex" value="1" />
                                 </TaskWindow>
                                 <TaskWindow>
                                   <option name="index" value="2" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="26" />
                                   <option name="line" value="4" />
                                   <option name="replacementLength" value="28" />
                                   <option name="start" value="0" />
@@ -85,14 +85,14 @@
                                   <option name="start" value="0" />
                                   <option name="hint" />
                                   <option name="possible_answer" value="# or your code won't work :(" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="26" />
                                   <option name="myTaskText" value="or your code won't work :(" />
                                   <option name="myReplacementLength" value="28" />
                                   <option name="myIndex" value="2" />
                                 </TaskWindow>
                                 <TaskWindow>
                                   <option name="index" value="3" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="34" />
                                   <option name="line" value="6" />
                                   <option name="replacementLength" value="31" />
                                   <option name="start" value="0" />
@@ -101,7 +101,7 @@
                                   <option name="start" value="0" />
                                   <option name="hint" />
                                   <option name="possible_answer" value="print(&quot;and uncomment this one!&quot;)" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="34" />
                                   <option name="myTaskText" value="# print(&quot;and uncomment this one!&quot;)" />
                                   <option name="myReplacementLength" value="31" />
                                   <option name="myIndex" value="3" />
@@ -128,7 +128,7 @@
                               <list>
                                 <TaskWindow>
                                   <option name="index" value="1" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="14" />
                                   <option name="line" value="2" />
                                   <option name="replacementLength" value="10" />
                                   <option name="start" value="0" />
@@ -137,14 +137,14 @@
                                   <option name="start" value="0" />
                                   <option name="hint" />
                                   <option name="possible_answer" value="answer = 0" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="14" />
                                   <option name="myTaskText" value="    answer = 0" />
                                   <option name="myReplacementLength" value="10" />
                                   <option name="myIndex" value="1" />
                                 </TaskWindow>
                                 <TaskWindow>
                                   <option name="index" value="2" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="28" />
                                   <option name="line" value="4" />
                                   <option name="replacementLength" value="32" />
                                   <option name="start" value="0" />
@@ -153,14 +153,14 @@
                                   <option name="start" value="0" />
                                   <option name="hint" />
                                   <option name="possible_answer" value="    if i % 3 == 0 or i % 5 == 0:" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="28" />
                                   <option name="myTaskText" value="if i % 3 == 0 or i % 5 == 0:" />
                                   <option name="myReplacementLength" value="32" />
                                   <option name="myIndex" value="2" />
                                 </TaskWindow>
                                 <TaskWindow>
                                   <option name="index" value="3" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="10" />
                                   <option name="line" value="6" />
                                   <option name="replacementLength" value="6" />
                                   <option name="start" value="8" />
@@ -169,14 +169,14 @@
                                   <option name="start" value="8" />
                                   <option name="hint" />
                                   <option name="possible_answer" value="i += 1" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="10" />
                                   <option name="myTaskText" value="    i += 1" />
                                   <option name="myReplacementLength" value="6" />
                                   <option name="myIndex" value="3" />
                                 </TaskWindow>
                                 <TaskWindow>
                                   <option name="index" value="4" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="6" />
                                   <option name="line" value="8" />
                                   <option name="replacementLength" value="10" />
                                   <option name="start" value="4" />
@@ -185,7 +185,7 @@
                                   <option name="start" value="4" />
                                   <option name="hint" />
                                   <option name="possible_answer" value="    i += 1" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="6" />
                                   <option name="myTaskText" value="i += 1" />
                                   <option name="myReplacementLength" value="10" />
                                   <option name="myIndex" value="4" />
@@ -219,7 +219,7 @@
                                   <list>
                                     <TaskWindow>
                                       <option name="index" value="1" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="17" />
                                       <option name="line" value="2" />
                                       <option name="replacementLength" value="14" />
                                       <option name="start" value="6" />
@@ -228,7 +228,7 @@
                                       <option name="start" value="6" />
                                       <option name="hint" value="lesson1task1helloworld_1" />
                                       <option name="possible_answer" value="&quot;Hello World!&quot;" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="17" />
                                       <option name="myTaskText" value="write answer here" />
                                       <option name="myReplacementLength" value="14" />
                                       <option name="myIndex" value="1" />
@@ -259,7 +259,7 @@
                                   <list>
                                     <TaskWindow>
                                       <option name="index" value="1" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="23" />
                                       <option name="line" value="3" />
                                       <option name="replacementLength" value="25" />
                                       <option name="start" value="0" />
@@ -268,14 +268,14 @@
                                       <option name="start" value="0" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="# comment out these lines" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="23" />
                                       <option name="myTaskText" value="comment out these lines" />
                                       <option name="myReplacementLength" value="25" />
                                       <option name="myIndex" value="1" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="2" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="26" />
                                       <option name="line" value="4" />
                                       <option name="replacementLength" value="28" />
                                       <option name="start" value="0" />
@@ -284,14 +284,14 @@
                                       <option name="start" value="0" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="# or your code won't work :(" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="26" />
                                       <option name="myTaskText" value="or your code won't work :(" />
                                       <option name="myReplacementLength" value="28" />
                                       <option name="myIndex" value="2" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="3" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="34" />
                                       <option name="line" value="6" />
                                       <option name="replacementLength" value="31" />
                                       <option name="start" value="0" />
@@ -300,7 +300,7 @@
                                       <option name="start" value="0" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="print(&quot;and uncomment this one!&quot;)" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="34" />
                                       <option name="myTaskText" value="# print(&quot;and uncomment this one!&quot;)" />
                                       <option name="myReplacementLength" value="31" />
                                       <option name="myIndex" value="3" />
@@ -331,7 +331,7 @@
                                   <list>
                                     <TaskWindow>
                                       <option name="index" value="1" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="14" />
                                       <option name="line" value="2" />
                                       <option name="replacementLength" value="10" />
                                       <option name="start" value="0" />
@@ -340,14 +340,14 @@
                                       <option name="start" value="0" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="answer = 0" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="14" />
                                       <option name="myTaskText" value="    answer = 0" />
                                       <option name="myReplacementLength" value="10" />
                                       <option name="myIndex" value="1" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="2" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="28" />
                                       <option name="line" value="4" />
                                       <option name="replacementLength" value="32" />
                                       <option name="start" value="0" />
@@ -356,14 +356,14 @@
                                       <option name="start" value="0" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="    if i % 3 == 0 or i % 5 == 0:" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="28" />
                                       <option name="myTaskText" value="if i % 3 == 0 or i % 5 == 0:" />
                                       <option name="myReplacementLength" value="32" />
                                       <option name="myIndex" value="2" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="3" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="10" />
                                       <option name="line" value="6" />
                                       <option name="replacementLength" value="6" />
                                       <option name="start" value="8" />
@@ -372,14 +372,14 @@
                                       <option name="start" value="8" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="i += 1" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="10" />
                                       <option name="myTaskText" value="    i += 1" />
                                       <option name="myReplacementLength" value="6" />
                                       <option name="myIndex" value="3" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="4" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="6" />
                                       <option name="line" value="8" />
                                       <option name="replacementLength" value="10" />
                                       <option name="start" value="4" />
@@ -388,7 +388,7 @@
                                       <option name="start" value="4" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="    i += 1" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="6" />
                                       <option name="myTaskText" value="i += 1" />
                                       <option name="myReplacementLength" value="10" />
                                       <option name="myIndex" value="4" />
@@ -425,7 +425,7 @@
                               <list>
                                 <TaskWindow>
                                   <option name="index" value="1" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="15" />
                                   <option name="line" value="2" />
                                   <option name="replacementLength" value="6" />
                                   <option name="start" value="7" />
@@ -434,14 +434,14 @@
                                   <option name="start" value="7" />
                                   <option name="hint" />
                                   <option name="possible_answer" value="&quot;Thea&quot;" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="15" />
                                   <option name="myTaskText" value="enter your name" />
                                   <option name="myReplacementLength" value="6" />
                                   <option name="myIndex" value="1" />
                                 </TaskWindow>
                                 <TaskWindow>
                                   <option name="index" value="2" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="14" />
                                   <option name="line" value="3" />
                                   <option name="replacementLength" value="2" />
                                   <option name="start" value="6" />
@@ -450,14 +450,14 @@
                                   <option name="start" value="6" />
                                   <option name="hint" />
                                   <option name="possible_answer" value="22" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="14" />
                                   <option name="myTaskText" value="enter your age" />
                                   <option name="myReplacementLength" value="2" />
                                   <option name="myIndex" value="2" />
                                 </TaskWindow>
                                 <TaskWindow>
                                   <option name="index" value="3" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="17" />
                                   <option name="line" value="4" />
                                   <option name="replacementLength" value="5" />
                                   <option name="start" value="13" />
@@ -466,7 +466,7 @@
                                   <option name="start" value="13" />
                                   <option name="hint" />
                                   <option name="possible_answer" value="True" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="17" />
                                   <option name="myTaskText" value="do you like cake?" />
                                   <option name="myReplacementLength" value="5" />
                                   <option name="myIndex" value="3" />
@@ -500,7 +500,7 @@
                                   <list>
                                     <TaskWindow>
                                       <option name="index" value="1" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="15" />
                                       <option name="line" value="2" />
                                       <option name="replacementLength" value="6" />
                                       <option name="start" value="7" />
@@ -509,14 +509,14 @@
                                       <option name="start" value="7" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="&quot;Thea&quot;" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="15" />
                                       <option name="myTaskText" value="enter your name" />
                                       <option name="myReplacementLength" value="6" />
                                       <option name="myIndex" value="1" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="2" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="14" />
                                       <option name="line" value="3" />
                                       <option name="replacementLength" value="2" />
                                       <option name="start" value="6" />
@@ -525,14 +525,14 @@
                                       <option name="start" value="6" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="22" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="14" />
                                       <option name="myTaskText" value="enter your age" />
                                       <option name="myReplacementLength" value="2" />
                                       <option name="myIndex" value="2" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="3" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="17" />
                                       <option name="line" value="4" />
                                       <option name="replacementLength" value="5" />
                                       <option name="start" value="13" />
@@ -541,7 +541,7 @@
                                       <option name="start" value="13" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="True" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="17" />
                                       <option name="myTaskText" value="do you like cake?" />
                                       <option name="myReplacementLength" value="5" />
                                       <option name="myIndex" value="3" />
@@ -578,7 +578,7 @@
                               <list>
                                 <TaskWindow>
                                   <option name="index" value="1" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="1" />
                                   <option name="line" value="2" />
                                   <option name="replacementLength" value="5" />
                                   <option name="start" value="11" />
@@ -587,14 +587,14 @@
                                   <option name="start" value="11" />
                                   <option name="hint" />
                                   <option name="possible_answer" value="1 + 9" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="1" />
                                   <option name="myTaskText" value=" " />
                                   <option name="myReplacementLength" value="5" />
                                   <option name="myIndex" value="1" />
                                 </TaskWindow>
                                 <TaskWindow>
                                   <option name="index" value="2" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="1" />
                                   <option name="line" value="4" />
                                   <option name="replacementLength" value="6" />
                                   <option name="start" value="14" />
@@ -603,14 +603,14 @@
                                   <option name="start" value="14" />
                                   <option name="hint" />
                                   <option name="possible_answer" value="11 - 1" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="1" />
                                   <option name="myTaskText" value=" " />
                                   <option name="myReplacementLength" value="6" />
                                   <option name="myIndex" value="2" />
                                 </TaskWindow>
                                 <TaskWindow>
                                   <option name="index" value="3" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="1" />
                                   <option name="line" value="6" />
                                   <option name="replacementLength" value="6" />
                                   <option name="start" value="17" />
@@ -619,14 +619,14 @@
                                   <option name="start" value="17" />
                                   <option name="hint" />
                                   <option name="possible_answer" value="1 * 10" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="1" />
                                   <option name="myTaskText" value=" " />
                                   <option name="myReplacementLength" value="6" />
                                   <option name="myIndex" value="3" />
                                 </TaskWindow>
                                 <TaskWindow>
                                   <option name="index" value="4" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="1" />
                                   <option name="line" value="8" />
                                   <option name="replacementLength" value="6" />
                                   <option name="start" value="11" />
@@ -635,7 +635,7 @@
                                   <option name="start" value="11" />
                                   <option name="hint" />
                                   <option name="possible_answer" value="20 / 2" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="1" />
                                   <option name="myTaskText" value=" " />
                                   <option name="myReplacementLength" value="6" />
                                   <option name="myIndex" value="4" />
@@ -662,7 +662,7 @@
                               <list>
                                 <TaskWindow>
                                   <option name="index" value="1" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="1" />
                                   <option name="line" value="2" />
                                   <option name="replacementLength" value="5" />
                                   <option name="start" value="6" />
@@ -671,14 +671,14 @@
                                   <option name="start" value="6" />
                                   <option name="hint" />
                                   <option name="possible_answer" value="5 / 2" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="1" />
                                   <option name="myTaskText" value=" " />
                                   <option name="myReplacementLength" value="5" />
                                   <option name="myIndex" value="1" />
                                 </TaskWindow>
                                 <TaskWindow>
                                   <option name="index" value="2" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="1" />
                                   <option name="line" value="5" />
                                   <option name="replacementLength" value="9" />
                                   <option name="start" value="6" />
@@ -687,7 +687,7 @@
                                   <option name="start" value="6" />
                                   <option name="hint" />
                                   <option name="possible_answer" value="5.0 / 2.0" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="1" />
                                   <option name="myTaskText" value=" " />
                                   <option name="myReplacementLength" value="9" />
                                   <option name="myIndex" value="2" />
@@ -714,7 +714,7 @@
                               <list>
                                 <TaskWindow>
                                   <option name="index" value="1" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="1" />
                                   <option name="line" value="1" />
                                   <option name="replacementLength" value="6" />
                                   <option name="start" value="17" />
@@ -723,7 +723,7 @@
                                   <option name="start" value="17" />
                                   <option name="hint" />
                                   <option name="possible_answer" value="1 ** 2" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="1" />
                                   <option name="myTaskText" value=" " />
                                   <option name="myReplacementLength" value="6" />
                                   <option name="myIndex" value="1" />
@@ -825,7 +825,7 @@
                                   <list>
                                     <TaskWindow>
                                       <option name="index" value="1" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="1" />
                                       <option name="line" value="2" />
                                       <option name="replacementLength" value="5" />
                                       <option name="start" value="11" />
@@ -834,14 +834,14 @@
                                       <option name="start" value="11" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="1 + 9" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="1" />
                                       <option name="myTaskText" value=" " />
                                       <option name="myReplacementLength" value="5" />
                                       <option name="myIndex" value="1" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="2" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="1" />
                                       <option name="line" value="4" />
                                       <option name="replacementLength" value="6" />
                                       <option name="start" value="14" />
@@ -850,14 +850,14 @@
                                       <option name="start" value="14" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="11 - 1" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="1" />
                                       <option name="myTaskText" value=" " />
                                       <option name="myReplacementLength" value="6" />
                                       <option name="myIndex" value="2" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="3" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="1" />
                                       <option name="line" value="6" />
                                       <option name="replacementLength" value="6" />
                                       <option name="start" value="17" />
@@ -866,14 +866,14 @@
                                       <option name="start" value="17" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="1 * 10" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="1" />
                                       <option name="myTaskText" value=" " />
                                       <option name="myReplacementLength" value="6" />
                                       <option name="myIndex" value="3" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="4" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="1" />
                                       <option name="line" value="8" />
                                       <option name="replacementLength" value="6" />
                                       <option name="start" value="11" />
@@ -882,7 +882,7 @@
                                       <option name="start" value="11" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="20 / 2" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="1" />
                                       <option name="myTaskText" value=" " />
                                       <option name="myReplacementLength" value="6" />
                                       <option name="myIndex" value="4" />
@@ -913,7 +913,7 @@
                                   <list>
                                     <TaskWindow>
                                       <option name="index" value="1" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="1" />
                                       <option name="line" value="2" />
                                       <option name="replacementLength" value="5" />
                                       <option name="start" value="6" />
@@ -922,14 +922,14 @@
                                       <option name="start" value="6" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="5 / 2" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="1" />
                                       <option name="myTaskText" value=" " />
                                       <option name="myReplacementLength" value="5" />
                                       <option name="myIndex" value="1" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="2" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="1" />
                                       <option name="line" value="5" />
                                       <option name="replacementLength" value="9" />
                                       <option name="start" value="6" />
@@ -938,7 +938,7 @@
                                       <option name="start" value="6" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="5.0 / 2.0" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="1" />
                                       <option name="myTaskText" value=" " />
                                       <option name="myReplacementLength" value="9" />
                                       <option name="myIndex" value="2" />
@@ -969,7 +969,7 @@
                                   <list>
                                     <TaskWindow>
                                       <option name="index" value="1" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="1" />
                                       <option name="line" value="1" />
                                       <option name="replacementLength" value="6" />
                                       <option name="start" value="17" />
@@ -978,7 +978,7 @@
                                       <option name="start" value="17" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="1 ** 2" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="1" />
                                       <option name="myTaskText" value=" " />
                                       <option name="myReplacementLength" value="6" />
                                       <option name="myIndex" value="1" />
@@ -1123,7 +1123,7 @@
                               <list>
                                 <TaskWindow>
                                   <option name="index" value="1" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="1" />
                                   <option name="line" value="4" />
                                   <option name="replacementLength" value="18" />
                                   <option name="start" value="10" />
@@ -1132,7 +1132,7 @@
                                   <option name="start" value="10" />
                                   <option name="hint" value="lesson4task2comprehension_1" />
                                   <option name="possible_answer" value="[x * 2 for x in L]" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="1" />
                                   <option name="myTaskText" value=" " />
                                   <option name="myReplacementLength" value="18" />
                                   <option name="myIndex" value="1" />
@@ -1156,7 +1156,88 @@
                         <value>
                           <TaskFile>
                             <option name="task_windows">
-                              <list />
+                              <list>
+                                <TaskWindow>
+                                  <option name="index" value="1" />
+                                  <option name="length" value="0" />
+                                  <option name="line" value="3" />
+                                  <option name="replacementLength" value="8" />
+                                  <option name="start" value="10" />
+                                  <option name="taskText" value="" />
+                                  <option name="line" value="3" />
+                                  <option name="start" value="10" />
+                                  <option name="hint" value="lesson4task3access_1" />
+                                  <option name="possible_answer" value="&quot;yellow&quot;" />
+                                  <option name="length" value="0" />
+                                  <option name="myTaskText" value="" />
+                                  <option name="myReplacementLength" value="8" />
+                                  <option name="myIndex" value="1" />
+                                </TaskWindow>
+                                <TaskWindow>
+                                  <option name="index" value="2" />
+                                  <option name="length" value="1" />
+                                  <option name="line" value="6" />
+                                  <option name="replacementLength" value="8" />
+                                  <option name="start" value="10" />
+                                  <option name="taskText" value=" " />
+                                  <option name="line" value="6" />
+                                  <option name="start" value="10" />
+                                  <option name="hint" />
+                                  <option name="possible_answer" value="&quot;indigo&quot;" />
+                                  <option name="length" value="1" />
+                                  <option name="myTaskText" value=" " />
+                                  <option name="myReplacementLength" value="8" />
+                                  <option name="myIndex" value="2" />
+                                </TaskWindow>
+                                <TaskWindow>
+                                  <option name="index" value="3" />
+                                  <option name="length" value="1" />
+                                  <option name="line" value="9" />
+                                  <option name="replacementLength" value="1" />
+                                  <option name="start" value="10" />
+                                  <option name="taskText" value=" " />
+                                  <option name="line" value="9" />
+                                  <option name="start" value="10" />
+                                  <option name="hint" />
+                                  <option name="possible_answer" value="7" />
+                                  <option name="length" value="1" />
+                                  <option name="myTaskText" value=" " />
+                                  <option name="myReplacementLength" value="1" />
+                                  <option name="myIndex" value="3" />
+                                </TaskWindow>
+                                <TaskWindow>
+                                  <option name="index" value="4" />
+                                  <option name="length" value="1" />
+                                  <option name="line" value="12" />
+                                  <option name="replacementLength" value="27" />
+                                  <option name="start" value="10" />
+                                  <option name="taskText" value=" " />
+                                  <option name="line" value="12" />
+                                  <option name="start" value="10" />
+                                  <option name="hint" />
+                                  <option name="possible_answer" value="[&quot;red&quot;, &quot;orange&quot;, &quot;yellow&quot;]" />
+                                  <option name="length" value="1" />
+                                  <option name="myTaskText" value=" " />
+                                  <option name="myReplacementLength" value="27" />
+                                  <option name="myIndex" value="4" />
+                                </TaskWindow>
+                                <TaskWindow>
+                                  <option name="index" value="5" />
+                                  <option name="length" value="1" />
+                                  <option name="line" value="15" />
+                                  <option name="replacementLength" value="12" />
+                                  <option name="start" value="10" />
+                                  <option name="taskText" value=" " />
+                                  <option name="line" value="15" />
+                                  <option name="start" value="10" />
+                                  <option name="hint" />
+                                  <option name="possible_answer" value="colours[::3]" />
+                                  <option name="length" value="1" />
+                                  <option name="myTaskText" value=" " />
+                                  <option name="myReplacementLength" value="12" />
+                                  <option name="myIndex" value="5" />
+                                </TaskWindow>
+                              </list>
                             </option>
                             <option name="myIndex" value="3" />
                           </TaskFile>
@@ -1225,7 +1306,7 @@
                                   <list>
                                     <TaskWindow>
                                       <option name="index" value="1" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="1" />
                                       <option name="line" value="4" />
                                       <option name="replacementLength" value="18" />
                                       <option name="start" value="10" />
@@ -1234,7 +1315,7 @@
                                       <option name="start" value="10" />
                                       <option name="hint" value="lesson4task2comprehension_1" />
                                       <option name="possible_answer" value="[x * 2 for x in L]" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="1" />
                                       <option name="myTaskText" value=" " />
                                       <option name="myReplacementLength" value="18" />
                                       <option name="myIndex" value="1" />
@@ -1262,7 +1343,88 @@
                             <value>
                               <TaskFile>
                                 <option name="task_windows">
-                                  <list />
+                                  <list>
+                                    <TaskWindow>
+                                      <option name="index" value="1" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="3" />
+                                      <option name="replacementLength" value="8" />
+                                      <option name="start" value="10" />
+                                      <option name="taskText" value="" />
+                                      <option name="line" value="3" />
+                                      <option name="start" value="10" />
+                                      <option name="hint" value="lesson4task3access_1" />
+                                      <option name="possible_answer" value="&quot;yellow&quot;" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="" />
+                                      <option name="myReplacementLength" value="8" />
+                                      <option name="myIndex" value="1" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="2" />
+                                      <option name="length" value="1" />
+                                      <option name="line" value="6" />
+                                      <option name="replacementLength" value="8" />
+                                      <option name="start" value="10" />
+                                      <option name="taskText" value=" " />
+                                      <option name="line" value="6" />
+                                      <option name="start" value="10" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="&quot;indigo&quot;" />
+                                      <option name="length" value="1" />
+                                      <option name="myTaskText" value=" " />
+                                      <option name="myReplacementLength" value="8" />
+                                      <option name="myIndex" value="2" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="3" />
+                                      <option name="length" value="1" />
+                                      <option name="line" value="9" />
+                                      <option name="replacementLength" value="1" />
+                                      <option name="start" value="10" />
+                                      <option name="taskText" value=" " />
+                                      <option name="line" value="9" />
+                                      <option name="start" value="10" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="7" />
+                                      <option name="length" value="1" />
+                                      <option name="myTaskText" value=" " />
+                                      <option name="myReplacementLength" value="1" />
+                                      <option name="myIndex" value="3" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="4" />
+                                      <option name="length" value="1" />
+                                      <option name="line" value="12" />
+                                      <option name="replacementLength" value="27" />
+                                      <option name="start" value="10" />
+                                      <option name="taskText" value=" " />
+                                      <option name="line" value="12" />
+                                      <option name="start" value="10" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="[&quot;red&quot;, &quot;orange&quot;, &quot;yellow&quot;]" />
+                                      <option name="length" value="1" />
+                                      <option name="myTaskText" value=" " />
+                                      <option name="myReplacementLength" value="27" />
+                                      <option name="myIndex" value="4" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="5" />
+                                      <option name="length" value="1" />
+                                      <option name="line" value="15" />
+                                      <option name="replacementLength" value="12" />
+                                      <option name="start" value="10" />
+                                      <option name="taskText" value=" " />
+                                      <option name="line" value="15" />
+                                      <option name="start" value="10" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="colours[::3]" />
+                                      <option name="length" value="1" />
+                                      <option name="myTaskText" value=" " />
+                                      <option name="myReplacementLength" value="12" />
+                                      <option name="myIndex" value="5" />
+                                    </TaskWindow>
+                                  </list>
                                 </option>
                                 <option name="myIndex" value="3" />
                               </TaskFile>
@@ -1303,7 +1465,7 @@
                                   <list>
                                     <TaskWindow>
                                       <option name="index" value="1" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="17" />
                                       <option name="line" value="2" />
                                       <option name="replacementLength" value="14" />
                                       <option name="start" value="6" />
@@ -1312,7 +1474,7 @@
                                       <option name="start" value="6" />
                                       <option name="hint" value="lesson1task1helloworld_1" />
                                       <option name="possible_answer" value="&quot;Hello World!&quot;" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="17" />
                                       <option name="myTaskText" value="write answer here" />
                                       <option name="myReplacementLength" value="14" />
                                       <option name="myIndex" value="1" />
@@ -1339,7 +1501,7 @@
                                   <list>
                                     <TaskWindow>
                                       <option name="index" value="1" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="23" />
                                       <option name="line" value="3" />
                                       <option name="replacementLength" value="25" />
                                       <option name="start" value="0" />
@@ -1348,14 +1510,14 @@
                                       <option name="start" value="0" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="# comment out these lines" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="23" />
                                       <option name="myTaskText" value="comment out these lines" />
                                       <option name="myReplacementLength" value="25" />
                                       <option name="myIndex" value="1" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="2" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="26" />
                                       <option name="line" value="4" />
                                       <option name="replacementLength" value="28" />
                                       <option name="start" value="0" />
@@ -1364,14 +1526,14 @@
                                       <option name="start" value="0" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="# or your code won't work :(" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="26" />
                                       <option name="myTaskText" value="or your code won't work :(" />
                                       <option name="myReplacementLength" value="28" />
                                       <option name="myIndex" value="2" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="3" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="34" />
                                       <option name="line" value="6" />
                                       <option name="replacementLength" value="31" />
                                       <option name="start" value="0" />
@@ -1380,7 +1542,7 @@
                                       <option name="start" value="0" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="print(&quot;and uncomment this one!&quot;)" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="34" />
                                       <option name="myTaskText" value="# print(&quot;and uncomment this one!&quot;)" />
                                       <option name="myReplacementLength" value="31" />
                                       <option name="myIndex" value="3" />
@@ -1407,7 +1569,7 @@
                                   <list>
                                     <TaskWindow>
                                       <option name="index" value="1" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="14" />
                                       <option name="line" value="2" />
                                       <option name="replacementLength" value="10" />
                                       <option name="start" value="0" />
@@ -1416,14 +1578,14 @@
                                       <option name="start" value="0" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="answer = 0" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="14" />
                                       <option name="myTaskText" value="    answer = 0" />
                                       <option name="myReplacementLength" value="10" />
                                       <option name="myIndex" value="1" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="2" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="28" />
                                       <option name="line" value="4" />
                                       <option name="replacementLength" value="32" />
                                       <option name="start" value="0" />
@@ -1432,14 +1594,14 @@
                                       <option name="start" value="0" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="    if i % 3 == 0 or i % 5 == 0:" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="28" />
                                       <option name="myTaskText" value="if i % 3 == 0 or i % 5 == 0:" />
                                       <option name="myReplacementLength" value="32" />
                                       <option name="myIndex" value="2" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="3" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="10" />
                                       <option name="line" value="6" />
                                       <option name="replacementLength" value="6" />
                                       <option name="start" value="8" />
@@ -1448,14 +1610,14 @@
                                       <option name="start" value="8" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="i += 1" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="10" />
                                       <option name="myTaskText" value="    i += 1" />
                                       <option name="myReplacementLength" value="6" />
                                       <option name="myIndex" value="3" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="4" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="6" />
                                       <option name="line" value="8" />
                                       <option name="replacementLength" value="10" />
                                       <option name="start" value="4" />
@@ -1464,7 +1626,7 @@
                                       <option name="start" value="4" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="    i += 1" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="6" />
                                       <option name="myTaskText" value="i += 1" />
                                       <option name="myReplacementLength" value="10" />
                                       <option name="myIndex" value="4" />
@@ -1498,7 +1660,7 @@
                                       <list>
                                         <TaskWindow>
                                           <option name="index" value="1" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="17" />
                                           <option name="line" value="2" />
                                           <option name="replacementLength" value="14" />
                                           <option name="start" value="6" />
@@ -1507,7 +1669,7 @@
                                           <option name="start" value="6" />
                                           <option name="hint" value="lesson1task1helloworld_1" />
                                           <option name="possible_answer" value="&quot;Hello World!&quot;" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="17" />
                                           <option name="myTaskText" value="write answer here" />
                                           <option name="myReplacementLength" value="14" />
                                           <option name="myIndex" value="1" />
@@ -1538,7 +1700,7 @@
                                       <list>
                                         <TaskWindow>
                                           <option name="index" value="1" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="23" />
                                           <option name="line" value="3" />
                                           <option name="replacementLength" value="25" />
                                           <option name="start" value="0" />
@@ -1547,14 +1709,14 @@
                                           <option name="start" value="0" />
                                           <option name="hint" />
                                           <option name="possible_answer" value="# comment out these lines" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="23" />
                                           <option name="myTaskText" value="comment out these lines" />
                                           <option name="myReplacementLength" value="25" />
                                           <option name="myIndex" value="1" />
                                         </TaskWindow>
                                         <TaskWindow>
                                           <option name="index" value="2" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="26" />
                                           <option name="line" value="4" />
                                           <option name="replacementLength" value="28" />
                                           <option name="start" value="0" />
@@ -1563,14 +1725,14 @@
                                           <option name="start" value="0" />
                                           <option name="hint" />
                                           <option name="possible_answer" value="# or your code won't work :(" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="26" />
                                           <option name="myTaskText" value="or your code won't work :(" />
                                           <option name="myReplacementLength" value="28" />
                                           <option name="myIndex" value="2" />
                                         </TaskWindow>
                                         <TaskWindow>
                                           <option name="index" value="3" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="34" />
                                           <option name="line" value="6" />
                                           <option name="replacementLength" value="31" />
                                           <option name="start" value="0" />
@@ -1579,7 +1741,7 @@
                                           <option name="start" value="0" />
                                           <option name="hint" />
                                           <option name="possible_answer" value="print(&quot;and uncomment this one!&quot;)" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="34" />
                                           <option name="myTaskText" value="# print(&quot;and uncomment this one!&quot;)" />
                                           <option name="myReplacementLength" value="31" />
                                           <option name="myIndex" value="3" />
@@ -1610,7 +1772,7 @@
                                       <list>
                                         <TaskWindow>
                                           <option name="index" value="1" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="14" />
                                           <option name="line" value="2" />
                                           <option name="replacementLength" value="10" />
                                           <option name="start" value="0" />
@@ -1619,14 +1781,14 @@
                                           <option name="start" value="0" />
                                           <option name="hint" />
                                           <option name="possible_answer" value="answer = 0" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="14" />
                                           <option name="myTaskText" value="    answer = 0" />
                                           <option name="myReplacementLength" value="10" />
                                           <option name="myIndex" value="1" />
                                         </TaskWindow>
                                         <TaskWindow>
                                           <option name="index" value="2" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="28" />
                                           <option name="line" value="4" />
                                           <option name="replacementLength" value="32" />
                                           <option name="start" value="0" />
@@ -1635,14 +1797,14 @@
                                           <option name="start" value="0" />
                                           <option name="hint" />
                                           <option name="possible_answer" value="    if i % 3 == 0 or i % 5 == 0:" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="28" />
                                           <option name="myTaskText" value="if i % 3 == 0 or i % 5 == 0:" />
                                           <option name="myReplacementLength" value="32" />
                                           <option name="myIndex" value="2" />
                                         </TaskWindow>
                                         <TaskWindow>
                                           <option name="index" value="3" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="10" />
                                           <option name="line" value="6" />
                                           <option name="replacementLength" value="6" />
                                           <option name="start" value="8" />
@@ -1651,14 +1813,14 @@
                                           <option name="start" value="8" />
                                           <option name="hint" />
                                           <option name="possible_answer" value="i += 1" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="10" />
                                           <option name="myTaskText" value="    i += 1" />
                                           <option name="myReplacementLength" value="6" />
                                           <option name="myIndex" value="3" />
                                         </TaskWindow>
                                         <TaskWindow>
                                           <option name="index" value="4" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="6" />
                                           <option name="line" value="8" />
                                           <option name="replacementLength" value="10" />
                                           <option name="start" value="4" />
@@ -1667,7 +1829,7 @@
                                           <option name="start" value="4" />
                                           <option name="hint" />
                                           <option name="possible_answer" value="    i += 1" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="6" />
                                           <option name="myTaskText" value="i += 1" />
                                           <option name="myReplacementLength" value="10" />
                                           <option name="myIndex" value="4" />
@@ -1708,7 +1870,7 @@
                                   <list>
                                     <TaskWindow>
                                       <option name="index" value="1" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="15" />
                                       <option name="line" value="2" />
                                       <option name="replacementLength" value="6" />
                                       <option name="start" value="7" />
@@ -1717,14 +1879,14 @@
                                       <option name="start" value="7" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="&quot;Thea&quot;" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="15" />
                                       <option name="myTaskText" value="enter your name" />
                                       <option name="myReplacementLength" value="6" />
                                       <option name="myIndex" value="1" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="2" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="14" />
                                       <option name="line" value="3" />
                                       <option name="replacementLength" value="2" />
                                       <option name="start" value="6" />
@@ -1733,14 +1895,14 @@
                                       <option name="start" value="6" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="22" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="14" />
                                       <option name="myTaskText" value="enter your age" />
                                       <option name="myReplacementLength" value="2" />
                                       <option name="myIndex" value="2" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="3" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="17" />
                                       <option name="line" value="4" />
                                       <option name="replacementLength" value="5" />
                                       <option name="start" value="13" />
@@ -1749,7 +1911,7 @@
                                       <option name="start" value="13" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="True" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="17" />
                                       <option name="myTaskText" value="do you like cake?" />
                                       <option name="myReplacementLength" value="5" />
                                       <option name="myIndex" value="3" />
@@ -1783,7 +1945,7 @@
                                       <list>
                                         <TaskWindow>
                                           <option name="index" value="1" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="15" />
                                           <option name="line" value="2" />
                                           <option name="replacementLength" value="6" />
                                           <option name="start" value="7" />
@@ -1792,14 +1954,14 @@
                                           <option name="start" value="7" />
                                           <option name="hint" />
                                           <option name="possible_answer" value="&quot;Thea&quot;" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="15" />
                                           <option name="myTaskText" value="enter your name" />
                                           <option name="myReplacementLength" value="6" />
                                           <option name="myIndex" value="1" />
                                         </TaskWindow>
                                         <TaskWindow>
                                           <option name="index" value="2" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="14" />
                                           <option name="line" value="3" />
                                           <option name="replacementLength" value="2" />
                                           <option name="start" value="6" />
@@ -1808,14 +1970,14 @@
                                           <option name="start" value="6" />
                                           <option name="hint" />
                                           <option name="possible_answer" value="22" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="14" />
                                           <option name="myTaskText" value="enter your age" />
                                           <option name="myReplacementLength" value="2" />
                                           <option name="myIndex" value="2" />
                                         </TaskWindow>
                                         <TaskWindow>
                                           <option name="index" value="3" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="17" />
                                           <option name="line" value="4" />
                                           <option name="replacementLength" value="5" />
                                           <option name="start" value="13" />
@@ -1824,7 +1986,7 @@
                                           <option name="start" value="13" />
                                           <option name="hint" />
                                           <option name="possible_answer" value="True" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="17" />
                                           <option name="myTaskText" value="do you like cake?" />
                                           <option name="myReplacementLength" value="5" />
                                           <option name="myIndex" value="3" />
@@ -1865,7 +2027,7 @@
                                   <list>
                                     <TaskWindow>
                                       <option name="index" value="1" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="1" />
                                       <option name="line" value="2" />
                                       <option name="replacementLength" value="5" />
                                       <option name="start" value="11" />
@@ -1874,14 +2036,14 @@
                                       <option name="start" value="11" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="1 + 9" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="1" />
                                       <option name="myTaskText" value=" " />
                                       <option name="myReplacementLength" value="5" />
                                       <option name="myIndex" value="1" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="2" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="1" />
                                       <option name="line" value="4" />
                                       <option name="replacementLength" value="6" />
                                       <option name="start" value="14" />
@@ -1890,14 +2052,14 @@
                                       <option name="start" value="14" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="11 - 1" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="1" />
                                       <option name="myTaskText" value=" " />
                                       <option name="myReplacementLength" value="6" />
                                       <option name="myIndex" value="2" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="3" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="1" />
                                       <option name="line" value="6" />
                                       <option name="replacementLength" value="6" />
                                       <option name="start" value="17" />
@@ -1906,14 +2068,14 @@
                                       <option name="start" value="17" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="1 * 10" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="1" />
                                       <option name="myTaskText" value=" " />
                                       <option name="myReplacementLength" value="6" />
                                       <option name="myIndex" value="3" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="4" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="1" />
                                       <option name="line" value="8" />
                                       <option name="replacementLength" value="6" />
                                       <option name="start" value="11" />
@@ -1922,7 +2084,7 @@
                                       <option name="start" value="11" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="20 / 2" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="1" />
                                       <option name="myTaskText" value=" " />
                                       <option name="myReplacementLength" value="6" />
                                       <option name="myIndex" value="4" />
@@ -1949,7 +2111,7 @@
                                   <list>
                                     <TaskWindow>
                                       <option name="index" value="1" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="1" />
                                       <option name="line" value="2" />
                                       <option name="replacementLength" value="5" />
                                       <option name="start" value="6" />
@@ -1958,14 +2120,14 @@
                                       <option name="start" value="6" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="5 / 2" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="1" />
                                       <option name="myTaskText" value=" " />
                                       <option name="myReplacementLength" value="5" />
                                       <option name="myIndex" value="1" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="2" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="1" />
                                       <option name="line" value="5" />
                                       <option name="replacementLength" value="9" />
                                       <option name="start" value="6" />
@@ -1974,7 +2136,7 @@
                                       <option name="start" value="6" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="5.0 / 2.0" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="1" />
                                       <option name="myTaskText" value=" " />
                                       <option name="myReplacementLength" value="9" />
                                       <option name="myIndex" value="2" />
@@ -2001,7 +2163,7 @@
                                   <list>
                                     <TaskWindow>
                                       <option name="index" value="1" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="1" />
                                       <option name="line" value="1" />
                                       <option name="replacementLength" value="6" />
                                       <option name="start" value="17" />
@@ -2010,7 +2172,7 @@
                                       <option name="start" value="17" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="1 ** 2" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="1" />
                                       <option name="myTaskText" value=" " />
                                       <option name="myReplacementLength" value="6" />
                                       <option name="myIndex" value="1" />
@@ -2112,7 +2274,7 @@
                                       <list>
                                         <TaskWindow>
                                           <option name="index" value="1" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="1" />
                                           <option name="line" value="2" />
                                           <option name="replacementLength" value="5" />
                                           <option name="start" value="11" />
@@ -2121,14 +2283,14 @@
                                           <option name="start" value="11" />
                                           <option name="hint" />
                                           <option name="possible_answer" value="1 + 9" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="1" />
                                           <option name="myTaskText" value=" " />
                                           <option name="myReplacementLength" value="5" />
                                           <option name="myIndex" value="1" />
                                         </TaskWindow>
                                         <TaskWindow>
                                           <option name="index" value="2" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="1" />
                                           <option name="line" value="4" />
                                           <option name="replacementLength" value="6" />
                                           <option name="start" value="14" />
@@ -2137,14 +2299,14 @@
                                           <option name="start" value="14" />
                                           <option name="hint" />
                                           <option name="possible_answer" value="11 - 1" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="1" />
                                           <option name="myTaskText" value=" " />
                                           <option name="myReplacementLength" value="6" />
                                           <option name="myIndex" value="2" />
                                         </TaskWindow>
                                         <TaskWindow>
                                           <option name="index" value="3" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="1" />
                                           <option name="line" value="6" />
                                           <option name="replacementLength" value="6" />
                                           <option name="start" value="17" />
@@ -2153,14 +2315,14 @@
                                           <option name="start" value="17" />
                                           <option name="hint" />
                                           <option name="possible_answer" value="1 * 10" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="1" />
                                           <option name="myTaskText" value=" " />
                                           <option name="myReplacementLength" value="6" />
                                           <option name="myIndex" value="3" />
                                         </TaskWindow>
                                         <TaskWindow>
                                           <option name="index" value="4" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="1" />
                                           <option name="line" value="8" />
                                           <option name="replacementLength" value="6" />
                                           <option name="start" value="11" />
@@ -2169,7 +2331,7 @@
                                           <option name="start" value="11" />
                                           <option name="hint" />
                                           <option name="possible_answer" value="20 / 2" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="1" />
                                           <option name="myTaskText" value=" " />
                                           <option name="myReplacementLength" value="6" />
                                           <option name="myIndex" value="4" />
@@ -2200,7 +2362,7 @@
                                       <list>
                                         <TaskWindow>
                                           <option name="index" value="1" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="1" />
                                           <option name="line" value="2" />
                                           <option name="replacementLength" value="5" />
                                           <option name="start" value="6" />
@@ -2209,14 +2371,14 @@
                                           <option name="start" value="6" />
                                           <option name="hint" />
                                           <option name="possible_answer" value="5 / 2" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="1" />
                                           <option name="myTaskText" value=" " />
                                           <option name="myReplacementLength" value="5" />
                                           <option name="myIndex" value="1" />
                                         </TaskWindow>
                                         <TaskWindow>
                                           <option name="index" value="2" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="1" />
                                           <option name="line" value="5" />
                                           <option name="replacementLength" value="9" />
                                           <option name="start" value="6" />
@@ -2225,7 +2387,7 @@
                                           <option name="start" value="6" />
                                           <option name="hint" />
                                           <option name="possible_answer" value="5.0 / 2.0" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="1" />
                                           <option name="myTaskText" value=" " />
                                           <option name="myReplacementLength" value="9" />
                                           <option name="myIndex" value="2" />
@@ -2256,7 +2418,7 @@
                                       <list>
                                         <TaskWindow>
                                           <option name="index" value="1" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="1" />
                                           <option name="line" value="1" />
                                           <option name="replacementLength" value="6" />
                                           <option name="start" value="17" />
@@ -2265,7 +2427,7 @@
                                           <option name="start" value="17" />
                                           <option name="hint" />
                                           <option name="possible_answer" value="1 ** 2" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="1" />
                                           <option name="myTaskText" value=" " />
                                           <option name="myReplacementLength" value="6" />
                                           <option name="myIndex" value="1" />
@@ -2414,7 +2576,7 @@
                                   <list>
                                     <TaskWindow>
                                       <option name="index" value="1" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="1" />
                                       <option name="line" value="4" />
                                       <option name="replacementLength" value="18" />
                                       <option name="start" value="10" />
@@ -2423,7 +2585,7 @@
                                       <option name="start" value="10" />
                                       <option name="hint" value="lesson4task2comprehension_1" />
                                       <option name="possible_answer" value="[x * 2 for x in L]" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="1" />
                                       <option name="myTaskText" value=" " />
                                       <option name="myReplacementLength" value="18" />
                                       <option name="myIndex" value="1" />
@@ -2447,7 +2609,88 @@
                             <value>
                               <TaskFile>
                                 <option name="task_windows">
-                                  <list />
+                                  <list>
+                                    <TaskWindow>
+                                      <option name="index" value="1" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="3" />
+                                      <option name="replacementLength" value="8" />
+                                      <option name="start" value="10" />
+                                      <option name="taskText" value="" />
+                                      <option name="line" value="3" />
+                                      <option name="start" value="10" />
+                                      <option name="hint" value="lesson4task3access_1" />
+                                      <option name="possible_answer" value="&quot;yellow&quot;" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="" />
+                                      <option name="myReplacementLength" value="8" />
+                                      <option name="myIndex" value="1" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="2" />
+                                      <option name="length" value="1" />
+                                      <option name="line" value="6" />
+                                      <option name="replacementLength" value="8" />
+                                      <option name="start" value="10" />
+                                      <option name="taskText" value=" " />
+                                      <option name="line" value="6" />
+                                      <option name="start" value="10" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="&quot;indigo&quot;" />
+                                      <option name="length" value="1" />
+                                      <option name="myTaskText" value=" " />
+                                      <option name="myReplacementLength" value="8" />
+                                      <option name="myIndex" value="2" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="3" />
+                                      <option name="length" value="1" />
+                                      <option name="line" value="9" />
+                                      <option name="replacementLength" value="1" />
+                                      <option name="start" value="10" />
+                                      <option name="taskText" value=" " />
+                                      <option name="line" value="9" />
+                                      <option name="start" value="10" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="7" />
+                                      <option name="length" value="1" />
+                                      <option name="myTaskText" value=" " />
+                                      <option name="myReplacementLength" value="1" />
+                                      <option name="myIndex" value="3" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="4" />
+                                      <option name="length" value="1" />
+                                      <option name="line" value="12" />
+                                      <option name="replacementLength" value="27" />
+                                      <option name="start" value="10" />
+                                      <option name="taskText" value=" " />
+                                      <option name="line" value="12" />
+                                      <option name="start" value="10" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="[&quot;red&quot;, &quot;orange&quot;, &quot;yellow&quot;]" />
+                                      <option name="length" value="1" />
+                                      <option name="myTaskText" value=" " />
+                                      <option name="myReplacementLength" value="27" />
+                                      <option name="myIndex" value="4" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="5" />
+                                      <option name="length" value="1" />
+                                      <option name="line" value="15" />
+                                      <option name="replacementLength" value="12" />
+                                      <option name="start" value="10" />
+                                      <option name="taskText" value=" " />
+                                      <option name="line" value="15" />
+                                      <option name="start" value="10" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="colours[::3]" />
+                                      <option name="length" value="1" />
+                                      <option name="myTaskText" value=" " />
+                                      <option name="myReplacementLength" value="12" />
+                                      <option name="myIndex" value="5" />
+                                    </TaskWindow>
+                                  </list>
                                 </option>
                                 <option name="myIndex" value="3" />
                               </TaskFile>
@@ -2516,7 +2759,7 @@
                                       <list>
                                         <TaskWindow>
                                           <option name="index" value="1" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="1" />
                                           <option name="line" value="4" />
                                           <option name="replacementLength" value="18" />
                                           <option name="start" value="10" />
@@ -2525,7 +2768,7 @@
                                           <option name="start" value="10" />
                                           <option name="hint" value="lesson4task2comprehension_1" />
                                           <option name="possible_answer" value="[x * 2 for x in L]" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="1" />
                                           <option name="myTaskText" value=" " />
                                           <option name="myReplacementLength" value="18" />
                                           <option name="myIndex" value="1" />
@@ -2553,7 +2796,88 @@
                                 <value>
                                   <TaskFile>
                                     <option name="task_windows">
-                                      <list />
+                                      <list>
+                                        <TaskWindow>
+                                          <option name="index" value="1" />
+                                          <option name="length" value="0" />
+                                          <option name="line" value="3" />
+                                          <option name="replacementLength" value="8" />
+                                          <option name="start" value="10" />
+                                          <option name="taskText" value="" />
+                                          <option name="line" value="3" />
+                                          <option name="start" value="10" />
+                                          <option name="hint" value="lesson4task3access_1" />
+                                          <option name="possible_answer" value="&quot;yellow&quot;" />
+                                          <option name="length" value="0" />
+                                          <option name="myTaskText" value="" />
+                                          <option name="myReplacementLength" value="8" />
+                                          <option name="myIndex" value="1" />
+                                        </TaskWindow>
+                                        <TaskWindow>
+                                          <option name="index" value="2" />
+                                          <option name="length" value="1" />
+                                          <option name="line" value="6" />
+                                          <option name="replacementLength" value="8" />
+                                          <option name="start" value="10" />
+                                          <option name="taskText" value=" " />
+                                          <option name="line" value="6" />
+                                          <option name="start" value="10" />
+                                          <option name="hint" />
+                                          <option name="possible_answer" value="&quot;indigo&quot;" />
+                                          <option name="length" value="1" />
+                                          <option name="myTaskText" value=" " />
+                                          <option name="myReplacementLength" value="8" />
+                                          <option name="myIndex" value="2" />
+                                        </TaskWindow>
+                                        <TaskWindow>
+                                          <option name="index" value="3" />
+                                          <option name="length" value="1" />
+                                          <option name="line" value="9" />
+                                          <option name="replacementLength" value="1" />
+                                          <option name="start" value="10" />
+                                          <option name="taskText" value=" " />
+                                          <option name="line" value="9" />
+                                          <option name="start" value="10" />
+                                          <option name="hint" />
+                                          <option name="possible_answer" value="7" />
+                                          <option name="length" value="1" />
+                                          <option name="myTaskText" value=" " />
+                                          <option name="myReplacementLength" value="1" />
+                                          <option name="myIndex" value="3" />
+                                        </TaskWindow>
+                                        <TaskWindow>
+                                          <option name="index" value="4" />
+                                          <option name="length" value="1" />
+                                          <option name="line" value="12" />
+                                          <option name="replacementLength" value="27" />
+                                          <option name="start" value="10" />
+                                          <option name="taskText" value=" " />
+                                          <option name="line" value="12" />
+                                          <option name="start" value="10" />
+                                          <option name="hint" />
+                                          <option name="possible_answer" value="[&quot;red&quot;, &quot;orange&quot;, &quot;yellow&quot;]" />
+                                          <option name="length" value="1" />
+                                          <option name="myTaskText" value=" " />
+                                          <option name="myReplacementLength" value="27" />
+                                          <option name="myIndex" value="4" />
+                                        </TaskWindow>
+                                        <TaskWindow>
+                                          <option name="index" value="5" />
+                                          <option name="length" value="1" />
+                                          <option name="line" value="15" />
+                                          <option name="replacementLength" value="12" />
+                                          <option name="start" value="10" />
+                                          <option name="taskText" value=" " />
+                                          <option name="line" value="15" />
+                                          <option name="start" value="10" />
+                                          <option name="hint" />
+                                          <option name="possible_answer" value="colours[::3]" />
+                                          <option name="length" value="1" />
+                                          <option name="myTaskText" value=" " />
+                                          <option name="myReplacementLength" value="12" />
+                                          <option name="myIndex" value="5" />
+                                        </TaskWindow>
+                                      </list>
                                     </option>
                                     <option name="myIndex" value="3" />
                                   </TaskFile>

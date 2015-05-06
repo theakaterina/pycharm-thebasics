@@ -11,8 +11,9 @@
                 {
                   "line": 2,
                   "start": 6,
+                  "hint": "lesson1task1helloworld_1",
                   "possible_answer": "\"Hello World!\"",
-                  "length": 21
+                  "length": 17
                 }
               ]
             }
@@ -109,21 +110,6 @@
               ]
             }
           }
-        },
-        {
-          "name": "Changing Types",
-          "task_files": {
-            "file1.py": {
-              "task_windows": [
-                {
-                  "line": 3,
-                  "start": 13,
-                  "possible_answer": "str(integer)",
-                  "length": 7
-                }
-              ]
-            }
-          }
         }
       ]
     },
@@ -170,15 +156,15 @@
               "task_windows": [
                 {
                   "line": 2,
-                  "start": 6,
+                  "start": 4,
                   "possible_answer": "5 / 2",
-                  "length": 8
+                  "length": 1
                 },
                 {
                   "line": 5,
-                  "start": 6,
+                  "start": 4,
                   "possible_answer": "5.0 / 2.0",
-                  "length": 6
+                  "length": 1
                 }
               ]
             }
@@ -196,7 +182,7 @@
                   "length": 1
                 },
                 {
-                  "line": 3,
+                  "line": 4,
                   "start": 8,
                   "possible_answer": "5 % 2",
                   "length": 0
@@ -222,6 +208,83 @@
                   "hint": "lesson3task4file1_3",
                   "possible_answer": "math.pi * r**2",
                   "length": 0
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lists",
+      "task_list": [
+        {
+          "name": "List Display",
+          "task_files": {
+            "display.py": {
+              "task_windows": [
+                {
+                  "line": 2,
+                  "start": 17,
+                  "hint": "lesson4task1display_1",
+                  "possible_answer": "[\"computers\", \"comics\", \"games\", \"food\"]",
+                  "length": 1
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "List Comprehension",
+          "task_files": {
+            "comprehension.py": {
+              "task_windows": [
+                {
+                  "line": 4,
+                  "start": 8,
+                  "hint": "lesson4task2comprehension_1",
+                  "possible_answer": "[x * 2 for x in L]",
+                  "length": 1
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Accessing Lists",
+          "task_files": {
+            "access.py": {
+              "task_windows": [
+                {
+                  "line": 3,
+                  "start": 9,
+                  "hint": "lesson4task3access_1",
+                  "possible_answer": "\"yellow\"",
+                  "length": 0
+                },
+                {
+                  "line": 6,
+                  "start": 8,
+                  "possible_answer": "\"indigo\"",
+                  "length": 1
+                },
+                {
+                  "line": 9,
+                  "start": 8,
+                  "possible_answer": "7",
+                  "length": 1
+                },
+                {
+                  "line": 12,
+                  "start": 8,
+                  "possible_answer": "[\"red\", \"orange\", \"yellow\"]",
+                  "length": 1
+                },
+                {
+                  "line": 15,
+                  "start": 8,
+                  "possible_answer": "colours[::3]",
+                  "length": 1
                 }
               ]
             }

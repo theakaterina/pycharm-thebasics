@@ -1,1 +1,5 @@
-# TODO: type solution here
+# Create a list of your favourite things here
+
+favourite_things = ["computers", "comics", "games", "food"]
+
+print favourite_things

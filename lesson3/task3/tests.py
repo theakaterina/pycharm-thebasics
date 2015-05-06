@@ -9,7 +9,7 @@ def test_answer_placeholders():
     if answers == ['8 8']:
         passed()
     else:
-        failed("One of your answers isn't equal to 10!")
+        failed("One of your answers isn't equal to 8!")
     if '**' in exponentiation:
         passed()
     else:
