@@ -1,21 +1,7 @@
-# TODO replace x
-
-from test_helper import run_common_tests, failed, passed, get_answer_placeholders
-
-
-def test_answer_placeholders():
-    placeholders = get_answer_placeholders()
-    placeholder = placeholders[0]
-    if placeholder == ("[x * 2 for x in L]" or "[x + x for x in L]"):
-        passed()
-    elif placeholder == ("[x*2 for x in L]" or "[x+x for x in L]"):
-        passed()
-    else:
-        failed("Format should be [expression to double number for number in L]")
+from test_helper import run_common_tests, check_answer
 
 
 if __name__ == '__main__':
     run_common_tests()
-    test_answer_placeholders()
-
-
+    doubles = ['[0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20]']
+    check_answer(doubles, "You didn't return a list of doubles")

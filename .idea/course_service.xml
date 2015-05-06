@@ -1123,7 +1123,7 @@
                               <list>
                                 <TaskWindow>
                                   <option name="index" value="1" />
-                                  <option name="length" value="1" />
+                                  <option name="length" value="0" />
                                   <option name="line" value="4" />
                                   <option name="replacementLength" value="18" />
                                   <option name="start" value="10" />
@@ -1132,7 +1132,7 @@
                                   <option name="start" value="10" />
                                   <option name="hint" value="lesson4task2comprehension_1" />
                                   <option name="possible_answer" value="[x * 2 for x in L]" />
-                                  <option name="length" value="1" />
+                                  <option name="length" value="0" />
                                   <option name="myTaskText" value=" " />
                                   <option name="myReplacementLength" value="18" />
                                   <option name="myIndex" value="1" />
@@ -1306,7 +1306,7 @@
                                   <list>
                                     <TaskWindow>
                                       <option name="index" value="1" />
-                                      <option name="length" value="1" />
+                                      <option name="length" value="0" />
                                       <option name="line" value="4" />
                                       <option name="replacementLength" value="18" />
                                       <option name="start" value="10" />
@@ -1315,7 +1315,7 @@
                                       <option name="start" value="10" />
                                       <option name="hint" value="lesson4task2comprehension_1" />
                                       <option name="possible_answer" value="[x * 2 for x in L]" />
-                                      <option name="length" value="1" />
+                                      <option name="length" value="0" />
                                       <option name="myTaskText" value=" " />
                                       <option name="myReplacementLength" value="18" />
                                       <option name="myIndex" value="1" />
@@ -2576,7 +2576,7 @@
                                   <list>
                                     <TaskWindow>
                                       <option name="index" value="1" />
-                                      <option name="length" value="1" />
+                                      <option name="length" value="0" />
                                       <option name="line" value="4" />
                                       <option name="replacementLength" value="18" />
                                       <option name="start" value="10" />
@@ -2585,7 +2585,7 @@
                                       <option name="start" value="10" />
                                       <option name="hint" value="lesson4task2comprehension_1" />
                                       <option name="possible_answer" value="[x * 2 for x in L]" />
-                                      <option name="length" value="1" />
+                                      <option name="length" value="0" />
                                       <option name="myTaskText" value=" " />
                                       <option name="myReplacementLength" value="18" />
                                       <option name="myIndex" value="1" />
@@ -2759,7 +2759,7 @@
                                       <list>
                                         <TaskWindow>
                                           <option name="index" value="1" />
-                                          <option name="length" value="1" />
+                                          <option name="length" value="0" />
                                           <option name="line" value="4" />
                                           <option name="replacementLength" value="18" />
                                           <option name="start" value="10" />
@@ -2768,7 +2768,7 @@
                                           <option name="start" value="10" />
                                           <option name="hint" value="lesson4task2comprehension_1" />
                                           <option name="possible_answer" value="[x * 2 for x in L]" />
-                                          <option name="length" value="1" />
+                                          <option name="length" value="0" />
                                           <option name="myTaskText" value=" " />
                                           <option name="myReplacementLength" value="18" />
                                           <option name="myIndex" value="1" />
