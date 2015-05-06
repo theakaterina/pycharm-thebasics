@@ -1,6 +1,7 @@
-
+# Exponentiation is **
 exponentiation = 2 ** 3
 
+# Modulo is %. We want a remainder of 8
 modulo = 100 % 92
 
 print(exponentiation, modulo)

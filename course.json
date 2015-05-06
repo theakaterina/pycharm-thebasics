@@ -44,6 +44,39 @@
               ]
             }
           }
+        },
+        {
+          "name": "Spacing",
+          "task_files": {
+            "spacing.py": {
+              "task_windows": [
+                {
+                  "line": 2,
+                  "start": 0,
+                  "possible_answer": "answer \u003d 0",
+                  "length": 14
+                },
+                {
+                  "line": 4,
+                  "start": 0,
+                  "possible_answer": "    if i % 3 \u003d\u003d 0 or i % 5 \u003d\u003d 0:",
+                  "length": 28
+                },
+                {
+                  "line": 6,
+                  "start": 8,
+                  "possible_answer": "i +\u003d 1",
+                  "length": 10
+                },
+                {
+                  "line": 8,
+                  "start": 4,
+                  "possible_answer": "    i +\u003d 1",
+                  "length": 6
+                }
+              ]
+            }
+          }
         }
       ]
     },
@@ -72,6 +105,21 @@
                   "start": 13,
                   "possible_answer": "True",
                   "length": 17
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Changing Types",
+          "task_files": {
+            "file1.py": {
+              "task_windows": [
+                {
+                  "line": 3,
+                  "start": 13,
+                  "possible_answer": "str(integer)",
+                  "length": 7
                 }
               ]
             }
@@ -149,9 +197,9 @@
                 },
                 {
                   "line": 3,
-                  "start": 6,
+                  "start": 8,
                   "possible_answer": "5 % 2",
-                  "length": 2
+                  "length": 0
                 }
               ]
             }
@@ -160,16 +208,26 @@
         {
           "name": "Libraries",
           "task_files": {
-            "file1.py": {
-              "task_windows": []
+            "libraries.py": {
+              "task_windows": [
+                {
+                  "line": 3,
+                  "start": 3,
+                  "possible_answer": "5",
+                  "length": 0
+                },
+                {
+                  "line": 6,
+                  "start": 6,
+                  "hint": "lesson3task4file1_3",
+                  "possible_answer": "math.pi * r**2",
+                  "length": 0
+                }
+              ]
             }
           }
         }
       ]
-    },
-    {
-      "name": "Strings",
-      "task_list": []
     }
   ],
   "description": "Learn the basics of python 2.7",

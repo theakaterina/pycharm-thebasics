@@ -2,5 +2,5 @@
 # Print division with two integers
 print(5 / 2)
 
-# Print same division using at least one float
+# Print the same division using at least one float
 print(5.0 / 2.0)

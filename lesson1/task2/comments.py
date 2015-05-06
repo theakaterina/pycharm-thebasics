@@ -3,5 +3,5 @@
 
 # comment out these lines
 # or your code won't work :(
-
-print("and uncomment this one!")
+x = 1
+#print("and uncomment this one!")
