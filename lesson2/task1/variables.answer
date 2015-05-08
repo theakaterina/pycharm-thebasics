@@ -2,7 +2,7 @@
 
 name = "Thea"
 age = 22
-likes_cake = False
+likes_cake = True
 
 # Notice how to print multiple things, we separate them by commas
 print "My name is ", name, ". I am ", age, " years old. It is ", likes_cake, " that I like cake"
