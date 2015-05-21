@@ -1163,13 +1163,13 @@
                                   <option name="line" value="3" />
                                   <option name="replacementLength" value="8" />
                                   <option name="start" value="10" />
-                                  <option name="taskText" value="" />
+                                  <option name="taskText" value="what colour?" />
                                   <option name="line" value="3" />
                                   <option name="start" value="10" />
                                   <option name="hint" value="lesson4task3access_1" />
                                   <option name="possible_answer" value="&quot;yellow&quot;" />
                                   <option name="length" value="0" />
-                                  <option name="myTaskText" value="" />
+                                  <option name="myTaskText" value="what colour?" />
                                   <option name="myReplacementLength" value="8" />
                                   <option name="myIndex" value="1" />
                                 </TaskWindow>
@@ -1179,13 +1179,13 @@
                                   <option name="line" value="6" />
                                   <option name="replacementLength" value="8" />
                                   <option name="start" value="10" />
-                                  <option name="taskText" value=" " />
+                                  <option name="taskText" value="what colour?" />
                                   <option name="line" value="6" />
                                   <option name="start" value="10" />
                                   <option name="hint" />
                                   <option name="possible_answer" value="&quot;indigo&quot;" />
                                   <option name="length" value="0" />
-                                  <option name="myTaskText" value=" " />
+                                  <option name="myTaskText" value="what colour?" />
                                   <option name="myReplacementLength" value="8" />
                                   <option name="myIndex" value="2" />
                                 </TaskWindow>
@@ -1195,13 +1195,13 @@
                                   <option name="line" value="9" />
                                   <option name="replacementLength" value="1" />
                                   <option name="start" value="10" />
-                                  <option name="taskText" value=" " />
+                                  <option name="taskText" value="length" />
                                   <option name="line" value="9" />
                                   <option name="start" value="10" />
                                   <option name="hint" />
                                   <option name="possible_answer" value="7" />
                                   <option name="length" value="0" />
-                                  <option name="myTaskText" value=" " />
+                                  <option name="myTaskText" value="length" />
                                   <option name="myReplacementLength" value="1" />
                                   <option name="myIndex" value="3" />
                                 </TaskWindow>
@@ -1211,13 +1211,13 @@
                                   <option name="line" value="12" />
                                   <option name="replacementLength" value="27" />
                                   <option name="start" value="10" />
-                                  <option name="taskText" value=" " />
+                                  <option name="taskText" value="which colours?" />
                                   <option name="line" value="12" />
                                   <option name="start" value="10" />
-                                  <option name="hint" />
+                                  <option name="hint" value="lesson4task3access_6" />
                                   <option name="possible_answer" value="[&quot;red&quot;, &quot;orange&quot;, &quot;yellow&quot;]" />
                                   <option name="length" value="0" />
-                                  <option name="myTaskText" value=" " />
+                                  <option name="myTaskText" value="which colours?" />
                                   <option name="myReplacementLength" value="27" />
                                   <option name="myIndex" value="4" />
                                 </TaskWindow>
@@ -1227,13 +1227,13 @@
                                   <option name="line" value="15" />
                                   <option name="replacementLength" value="12" />
                                   <option name="start" value="10" />
-                                  <option name="taskText" value=" " />
+                                  <option name="taskText" value="list[start:stop:step]" />
                                   <option name="line" value="15" />
                                   <option name="start" value="10" />
                                   <option name="hint" />
                                   <option name="possible_answer" value="colours[::3]" />
                                   <option name="length" value="0" />
-                                  <option name="myTaskText" value=" " />
+                                  <option name="myTaskText" value="list[start:stop:step]" />
                                   <option name="myReplacementLength" value="12" />
                                   <option name="myIndex" value="5" />
                                 </TaskWindow>
@@ -1350,13 +1350,13 @@
                                       <option name="line" value="3" />
                                       <option name="replacementLength" value="8" />
                                       <option name="start" value="10" />
-                                      <option name="taskText" value="" />
+                                      <option name="taskText" value="what colour?" />
                                       <option name="line" value="3" />
                                       <option name="start" value="10" />
                                       <option name="hint" value="lesson4task3access_1" />
                                       <option name="possible_answer" value="&quot;yellow&quot;" />
                                       <option name="length" value="0" />
-                                      <option name="myTaskText" value="" />
+                                      <option name="myTaskText" value="what colour?" />
                                       <option name="myReplacementLength" value="8" />
                                       <option name="myIndex" value="1" />
                                     </TaskWindow>
@@ -1366,13 +1366,13 @@
                                       <option name="line" value="6" />
                                       <option name="replacementLength" value="8" />
                                       <option name="start" value="10" />
-                                      <option name="taskText" value=" " />
+                                      <option name="taskText" value="what colour?" />
                                       <option name="line" value="6" />
                                       <option name="start" value="10" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="&quot;indigo&quot;" />
                                       <option name="length" value="0" />
-                                      <option name="myTaskText" value=" " />
+                                      <option name="myTaskText" value="what colour?" />
                                       <option name="myReplacementLength" value="8" />
                                       <option name="myIndex" value="2" />
                                     </TaskWindow>
@@ -1382,13 +1382,13 @@
                                       <option name="line" value="9" />
                                       <option name="replacementLength" value="1" />
                                       <option name="start" value="10" />
-                                      <option name="taskText" value=" " />
+                                      <option name="taskText" value="length" />
                                       <option name="line" value="9" />
                                       <option name="start" value="10" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="7" />
                                       <option name="length" value="0" />
-                                      <option name="myTaskText" value=" " />
+                                      <option name="myTaskText" value="length" />
                                       <option name="myReplacementLength" value="1" />
                                       <option name="myIndex" value="3" />
                                     </TaskWindow>
@@ -1398,13 +1398,13 @@
                                       <option name="line" value="12" />
                                       <option name="replacementLength" value="27" />
                                       <option name="start" value="10" />
-                                      <option name="taskText" value=" " />
+                                      <option name="taskText" value="which colours?" />
                                       <option name="line" value="12" />
                                       <option name="start" value="10" />
-                                      <option name="hint" />
+                                      <option name="hint" value="lesson4task3access_6" />
                                       <option name="possible_answer" value="[&quot;red&quot;, &quot;orange&quot;, &quot;yellow&quot;]" />
                                       <option name="length" value="0" />
-                                      <option name="myTaskText" value=" " />
+                                      <option name="myTaskText" value="which colours?" />
                                       <option name="myReplacementLength" value="27" />
                                       <option name="myIndex" value="4" />
                                     </TaskWindow>
@@ -1414,13 +1414,13 @@
                                       <option name="line" value="15" />
                                       <option name="replacementLength" value="12" />
                                       <option name="start" value="10" />
-                                      <option name="taskText" value=" " />
+                                      <option name="taskText" value="list[start:stop:step]" />
                                       <option name="line" value="15" />
                                       <option name="start" value="10" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="colours[::3]" />
                                       <option name="length" value="0" />
-                                      <option name="myTaskText" value=" " />
+                                      <option name="myTaskText" value="list[start:stop:step]" />
                                       <option name="myReplacementLength" value="12" />
                                       <option name="myIndex" value="5" />
                                     </TaskWindow>
@@ -2616,13 +2616,13 @@
                                       <option name="line" value="3" />
                                       <option name="replacementLength" value="8" />
                                       <option name="start" value="10" />
-                                      <option name="taskText" value="" />
+                                      <option name="taskText" value="what colour?" />
                                       <option name="line" value="3" />
                                       <option name="start" value="10" />
                                       <option name="hint" value="lesson4task3access_1" />
                                       <option name="possible_answer" value="&quot;yellow&quot;" />
                                       <option name="length" value="0" />
-                                      <option name="myTaskText" value="" />
+                                      <option name="myTaskText" value="what colour?" />
                                       <option name="myReplacementLength" value="8" />
                                       <option name="myIndex" value="1" />
                                     </TaskWindow>
@@ -2632,13 +2632,13 @@
                                       <option name="line" value="6" />
                                       <option name="replacementLength" value="8" />
                                       <option name="start" value="10" />
-                                      <option name="taskText" value=" " />
+                                      <option name="taskText" value="what colour?" />
                                       <option name="line" value="6" />
                                       <option name="start" value="10" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="&quot;indigo&quot;" />
                                       <option name="length" value="0" />
-                                      <option name="myTaskText" value=" " />
+                                      <option name="myTaskText" value="what colour?" />
                                       <option name="myReplacementLength" value="8" />
                                       <option name="myIndex" value="2" />
                                     </TaskWindow>
@@ -2648,13 +2648,13 @@
                                       <option name="line" value="9" />
                                       <option name="replacementLength" value="1" />
                                       <option name="start" value="10" />
-                                      <option name="taskText" value=" " />
+                                      <option name="taskText" value="length" />
                                       <option name="line" value="9" />
                                       <option name="start" value="10" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="7" />
                                       <option name="length" value="0" />
-                                      <option name="myTaskText" value=" " />
+                                      <option name="myTaskText" value="length" />
                                       <option name="myReplacementLength" value="1" />
                                       <option name="myIndex" value="3" />
                                     </TaskWindow>
@@ -2664,13 +2664,13 @@
                                       <option name="line" value="12" />
                                       <option name="replacementLength" value="27" />
                                       <option name="start" value="10" />
-                                      <option name="taskText" value=" " />
+                                      <option name="taskText" value="which colours?" />
                                       <option name="line" value="12" />
                                       <option name="start" value="10" />
-                                      <option name="hint" />
+                                      <option name="hint" value="lesson4task3access_6" />
                                       <option name="possible_answer" value="[&quot;red&quot;, &quot;orange&quot;, &quot;yellow&quot;]" />
                                       <option name="length" value="0" />
-                                      <option name="myTaskText" value=" " />
+                                      <option name="myTaskText" value="which colours?" />
                                       <option name="myReplacementLength" value="27" />
                                       <option name="myIndex" value="4" />
                                     </TaskWindow>
@@ -2680,13 +2680,13 @@
                                       <option name="line" value="15" />
                                       <option name="replacementLength" value="12" />
                                       <option name="start" value="10" />
-                                      <option name="taskText" value=" " />
+                                      <option name="taskText" value="list[start:stop:step]" />
                                       <option name="line" value="15" />
                                       <option name="start" value="10" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="colours[::3]" />
                                       <option name="length" value="0" />
-                                      <option name="myTaskText" value=" " />
+                                      <option name="myTaskText" value="list[start:stop:step]" />
                                       <option name="myReplacementLength" value="12" />
                                       <option name="myIndex" value="5" />
                                     </TaskWindow>
@@ -2803,13 +2803,13 @@
                                           <option name="line" value="3" />
                                           <option name="replacementLength" value="8" />
                                           <option name="start" value="10" />
-                                          <option name="taskText" value="" />
+                                          <option name="taskText" value="what colour?" />
                                           <option name="line" value="3" />
                                           <option name="start" value="10" />
                                           <option name="hint" value="lesson4task3access_1" />
                                           <option name="possible_answer" value="&quot;yellow&quot;" />
                                           <option name="length" value="0" />
-                                          <option name="myTaskText" value="" />
+                                          <option name="myTaskText" value="what colour?" />
                                           <option name="myReplacementLength" value="8" />
                                           <option name="myIndex" value="1" />
                                         </TaskWindow>
@@ -2819,13 +2819,13 @@
                                           <option name="line" value="6" />
                                           <option name="replacementLength" value="8" />
                                           <option name="start" value="10" />
-                                          <option name="taskText" value=" " />
+                                          <option name="taskText" value="what colour?" />
                                           <option name="line" value="6" />
                                           <option name="start" value="10" />
                                           <option name="hint" />
                                           <option name="possible_answer" value="&quot;indigo&quot;" />
                                           <option name="length" value="0" />
-                                          <option name="myTaskText" value=" " />
+                                          <option name="myTaskText" value="what colour?" />
                                           <option name="myReplacementLength" value="8" />
                                           <option name="myIndex" value="2" />
                                         </TaskWindow>
@@ -2835,13 +2835,13 @@
                                           <option name="line" value="9" />
                                           <option name="replacementLength" value="1" />
                                           <option name="start" value="10" />
-                                          <option name="taskText" value=" " />
+                                          <option name="taskText" value="length" />
                                           <option name="line" value="9" />
                                           <option name="start" value="10" />
                                           <option name="hint" />
                                           <option name="possible_answer" value="7" />
                                           <option name="length" value="0" />
-                                          <option name="myTaskText" value=" " />
+                                          <option name="myTaskText" value="length" />
                                           <option name="myReplacementLength" value="1" />
                                           <option name="myIndex" value="3" />
                                         </TaskWindow>
@@ -2851,13 +2851,13 @@
                                           <option name="line" value="12" />
                                           <option name="replacementLength" value="27" />
                                           <option name="start" value="10" />
-                                          <option name="taskText" value=" " />
+                                          <option name="taskText" value="which colours?" />
                                           <option name="line" value="12" />
                                           <option name="start" value="10" />
-                                          <option name="hint" />
+                                          <option name="hint" value="lesson4task3access_6" />
                                           <option name="possible_answer" value="[&quot;red&quot;, &quot;orange&quot;, &quot;yellow&quot;]" />
                                           <option name="length" value="0" />
-                                          <option name="myTaskText" value=" " />
+                                          <option name="myTaskText" value="which colours?" />
                                           <option name="myReplacementLength" value="27" />
                                           <option name="myIndex" value="4" />
                                         </TaskWindow>
@@ -2867,13 +2867,13 @@
                                           <option name="line" value="15" />
                                           <option name="replacementLength" value="12" />
                                           <option name="start" value="10" />
-                                          <option name="taskText" value=" " />
+                                          <option name="taskText" value="list[start:stop:step]" />
                                           <option name="line" value="15" />
                                           <option name="start" value="10" />
                                           <option name="hint" />
                                           <option name="possible_answer" value="colours[::3]" />
                                           <option name="length" value="0" />
-                                          <option name="myTaskText" value=" " />
+                                          <option name="myTaskText" value="list[start:stop:step]" />
                                           <option name="myReplacementLength" value="12" />
                                           <option name="myIndex" value="5" />
                                         </TaskWindow>

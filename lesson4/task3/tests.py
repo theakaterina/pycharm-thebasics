@@ -3,11 +3,12 @@ from test_helper import run_common_tests, failed, passed, get_answer_placeholder
 
 def test_answer_placeholders():
     placeholders = get_answer_placeholders()
-    answer1 = placeholders[0]
-    answer2 = placeholders[1]
-    answer3 = placeholders[2]
-    answer4 = placeholders[3]
-    answer5 = placeholders[4]
+    answer1 = placeholders[0].strip()
+    answer2 = placeholders[1].strip()
+    answer3 = placeholders[2].strip()
+    answer4 = placeholders[3].strip()
+    answer5 = placeholders[4].strip()
+
     if answer1 == "\"yellow\"":
         passed()
     else:
@@ -32,5 +33,3 @@ def test_answer_placeholders():
 if __name__ == '__main__':
     run_common_tests()
     test_answer_placeholders()
-
-
